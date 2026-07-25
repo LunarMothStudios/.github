@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="112" viewBox="0 0 700 112" role="img" aria-labelledby="title">
+  <title id="title">BRAM — Courage</title>
+  <rect width="700" height="112" fill="#C88775"/>
+  <rect x="18" y="18" width="76" height="76" fill="#35283A"/>
+  <path d="M56 72c-4-7-21-16-21-29 0-9 7-15 15-15 4 0 7 2 10 5 3-3 6-5 10-5 8 0 15 6 15 15 0 13-17 22-21 29l-4 5z" fill="#DFBD71"/>
+  <text x="120" y="50" fill="#35283A" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="4">BRAM</text>
+  <text x="120" y="88" fill="#35283A" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">Courage</text>
+</svg>
