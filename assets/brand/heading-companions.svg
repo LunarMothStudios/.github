@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title">
+  <title id="title">Meet the companions</title>
+  <rect width="1200" height="150" fill="#F5EEE6"/>
+  <rect width="14" height="150" fill="#9B89A4"/>
+  <text x="52" y="50" fill="#35283A" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="4">TWO LITTLE WORLDS</text>
+  <text x="52" y="112" fill="#35283A" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700">Meet the</text>
+  <rect x="350" y="64" width="410" height="63" fill="#9AA68D"/>
+  <text x="370" y="112" fill="#35283A" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700">companions</text>
+  <path d="M1045 47c-28 5-47 26-45 52 2 21 21 34 44 33 19-1 29-10 37-24 8 14 19 23 38 24 23 1 42-12 44-33 2-26-17-47-45-52-17-3-29 4-37 17-8-13-20-20-36-17z" fill="#C88775" opacity=".9"/>
+  <circle cx="1081" cy="95" r="12" fill="#DFBD71"/>
+</svg>
